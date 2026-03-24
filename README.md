@@ -45,7 +45,7 @@ The following results were obtained evaluating the model after 30 million traini
 
 - **Average Score**: 31,825
 - **Max Tile Distribution**:
-  - 4096: 9.0%
+  - 4096: 21.0%
   - 2048: 73.0%
-  - 1024: 17.0%
+  - 1024: 3.0%
   - 512: 1.0%
