@@ -43,7 +43,7 @@ The evaluator runs the trained model against the game environment.
 
 The following results were obtained evaluating the model after 30 million training episodes, executing 100 games at a 3-ply search depth:
 
-- **Average Score**: 31,825
+- **Average Score**: 39 320
 - **Max Tile Distribution**:
   - 4096: 21.0%
   - 2048: 73.0%
